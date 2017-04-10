@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_a56e9dd4c90bf7079c075061d78cff57c1577e98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_de7ec9639b9251d636c90b22caa485fcb1b4b784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_9e260b60e4a6bc0dde064aba8da5f295ae772e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_681b42c4b3ec0065059666f69fd40e0e6ed650b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\exploded-aar\SudokuSolver-AndroidStudio\openCVLibrary2410\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dab748c2d27b9ea2ee5456b3625acb3661071eae">
+        <dex dex="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\pre-dexed\debug\SudokuSolver-AndroidStudio-openCVLibrary2410-unspecified_0eceb5ccb3648502e0027755abcd500ce048a3d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\exploded-aar\com.rmtheis\tess-two\6.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2e1e80e5618ce24efaf884fec3cf6133ba2d6555">
+        <dex dex="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\pre-dexed\debug\com.rmtheis-tess-two-6.2.0_b64eb9b7d549dc48da30c9f65cad5a0a82058bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_34af7364ffce46da682fe40fc1809c125c657584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\AndroidProjects\SudokuSolver-AndroidStudio\sudokuSolver\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_e405fec0c904016de964a4936d99f07a989a1689.jar" />
+    </item>
+
+</items>
